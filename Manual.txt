@@ -1,0 +1,6 @@
+1. Click "T1vsPhreak.exe" to play
+2. Use the numberpad to play this fun version of Tic-Tac-Toe
+3. This game is designed for 2 players, but you can by yourself if you really want to do that...
+4. Once a winner is declared, the game stops but..
+
+YOU CAN ALWAYS CLOSE IT AND OPEN IT BACK UP TO PLAY AGAIN )))
